@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetLocationWithoutGPS_Internet</string>
+    <string name="notDeted">Unable to Get Location</string>
+    <string name="settings">Settings</string>
+
+    <string name="textwarn">Permission Mandatory for this App</string>
+</resources>
